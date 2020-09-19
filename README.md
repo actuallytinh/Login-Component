@@ -1,4 +1,4 @@
-# Login Page - Component
+# Login Page
 **Used**
 - HTML5
 - CSS3
