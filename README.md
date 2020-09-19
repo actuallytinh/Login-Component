@@ -1,9 +1,7 @@
 # Login Page - Component
----
 ## Used
 - HTML5
 - CSS3
----
 ## UI Design
 - From [UI Design Daily](https://uidesigndaily.com/posts/sketch-sign-in-log-authentication-day-894)
 ---
